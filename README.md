@@ -67,7 +67,7 @@ Your OTP secrets are securely stored in:
 
 ## 😊 DEMO
 
-<img src="https://github.com/creasydude/crotp/blob/main/demo.gif?raw=true" width="100%">
+<img src="https://github.com/creasydude/crotp/blob/master/demo.gif?raw=true" width="100%">
 
 ## 🔒 Security
 
